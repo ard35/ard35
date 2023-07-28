@@ -1,4 +1,4 @@
-## 👋
+## Hey 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ard35&label=Profile%20views&color=0e75b6&style=flat" alt="ard35"> </p>
 <a href="https://www.linkedin.com/in/ard35" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<p align="left">
-</p>
+---
 
 ## ⚡ Tech
 <a href="https://github.com/ard35?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></a>
@@ -41,6 +38,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ard35&show_icons=true&locale=en&include_all_commits=true&rank_icon=github&hide=contribs,issues&custom_title=OpenSourceContributions" alt="ard35" /></p>
 
+---
+
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
